@@ -31,7 +31,7 @@ This project serves as a collection of practice tasks and algorithms to help rei
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (version 20+ recommended)
+- [Node.js](https://nodejs.org/) (version 18+ recommended)
 - [React.js](https://react.dev/) (version 18+ recommended)
 - [Git](https://git-scm.com/) for version control
 
@@ -84,9 +84,10 @@ practice-project/
 │       ├── asyncChain.js
         └── ...
 |   ├── tests/
-│       ├── asyncChain.test.js
+│       ├── asyncChain.spec.js
 │       └── ...
 │   ├── package.json
+│   ├── package-lock.json
 │   └── ...
 │
 ├── reactjs/
